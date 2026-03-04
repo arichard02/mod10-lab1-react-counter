@@ -1,1 +1,31 @@
+/* Center the counter on the page */
+.counter-container {
+  max-width: 400px;
+  margin: 40px auto;
+  padding: 20px;
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  text-align: center;
+  font-family: Arial, sans-serif;
+}
 
+/* Space between buttons */
+.button-group {
+  margin: 15px 0;
+}
+
+.button-group button {
+  margin: 0 5px;
+  padding: 6px 12px;
+  cursor: pointer;
+}
+
+/* Space around input */
+.step-section {
+  margin: 15px 0;
+}
+
+.history-section {
+  margin-top: 15px;
+  font-size: 0.9rem;
+}
